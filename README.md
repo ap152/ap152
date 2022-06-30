@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ap152
-- 👀 I’m interested in sports and carton
+- 👀 I’m interested in sports and cartoon
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me by sending emails to 1242619605@qq.com
